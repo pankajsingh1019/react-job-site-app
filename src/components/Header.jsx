@@ -60,7 +60,7 @@ export default function Header() {
         <div className="md:hidden bg-white shadow-md">
           <nav className="px-4 py-3 space-y-2">
             <a href="/" className="block text-gray-700 hover:text-blue-600">
-              Home.
+              Home
             </a>
             <a href="/about" className="block text-gray-700 hover:text-blue-600">
               About
